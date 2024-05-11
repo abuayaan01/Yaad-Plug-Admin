@@ -1,0 +1,44 @@
+.toggleCheckbox {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    display: none;
+  }
+  
+  .toggle {
+    background-color: gray;
+    width: 50px;
+    height: 22px;
+    border-radius: 16px;
+    position: relative;
+    transition: 0.3s;
+    cursor: pointer;
+  }
+  
+  .toggle::before {
+    content: "";
+    font-weight: 900;
+    background-color: white;
+    width: 14px;
+    height: 14px;
+    position: absolute;
+    border-radius: 50%;
+    top: 4px;
+    left: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ddd;
+    transition: 0.3s;
+  }
+  
+  .toggleCheckbox:checked+.toggle {
+    /* background-color: #306130; */
+    background-color: #5bb85b;
+  }
+  
+  .toggleCheckbox:checked+.toggle::before {
+    content: "";
+    left: 32px;
+    color: #0075ff;
+  }
