@@ -2,7 +2,6 @@ import axios from "axios";
 import { getTokenFromCookies } from "./auth";
 
 // const baseUrl = "http://192.168.1.117:5000/api/";
-const baseUrl = "https://api.yaadplug.com/api/";
 
 async function getAllOrders() {
   try {
