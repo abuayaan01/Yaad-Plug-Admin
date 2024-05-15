@@ -1,3 +1,13 @@
+## Screenshots
+
+![Yaad PLUG](https://github.com/abuayaan01/Yaad-Plug-Admin/assets/78999105/894102e0-ece9-4906-929b-13d6126f9659)
+
+![Yaad PLUG Dashboard](https://github.com/abuayaan01/Yaad-Plug-Admin/assets/78999105/3406885f-6806-4ff7-b249-ff816e5cfa83)
+
+![Yaad PLUG Orders](https://github.com/abuayaan01/Yaad-Plug-Admin/assets/78999105/2c6b49ba-9dc4-421d-9423-82187a2803af)
+ 
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -28,9 +38,3 @@ To learn more about Next.js, take a look at the following resources:
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
